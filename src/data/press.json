@@ -1,1 +1,19 @@
-[]
+{
+  "title": "Press & Speaking",
+  "items": [
+    {
+      "title": "CCTOP Graduation — Student Speaker",
+      "subtitle": "NYU Steinhardt • 2025",
+      "date": "2025",
+      "description": "Invited speech for the CCTOP ceremony; remarks on community, transfer pathways, and belonging.",
+      "link": ""
+    },
+    {
+      "title": "Orientation Panelist",
+      "subtitle": "CCTOP Scholars",
+      "date": "2024",
+      "description": "Reassured incoming transfer students on navigating NYU and using campus opportunities.",
+      "link": ""
+    }
+  ]
+}
