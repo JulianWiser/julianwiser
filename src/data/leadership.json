@@ -1,12 +1,29 @@
-[
-  {
-    "role": "Digital & Marketing Director",
-    "org": "NYU Psi Chi Honor Society",
-    "years": "2024–2025",
-    "impact": [
-      "Built and launched the first official chapter website",
-      "Led branding and digital communications",
-      "Created reusable asset library and documentation"
-    ]
-  }
-]
+{
+  "title": "Leadership & Roles",
+  "items": [
+    {
+      "title": "Digital & Marketing Director, NYU Psi Chi",
+      "subtitle": "Webmaster • Site maintenance • Content • Analytics",
+      "date": "2024–2025",
+      "description": "Built and maintained the first NYU Psi Chi website; managed content, branding, and growth operations."
+    },
+    {
+      "title": "Volunteer Filmer, Nordoff-Robbins Music Therapy Center",
+      "subtitle": "NYU Steinhardt Clinic",
+      "date": "2025–present",
+      "description": "Filming sessions, supporting clinicians, improving media workflows for research/education."
+    },
+    {
+      "title": "Court Attendant (Seasonal), USTA US Open",
+      "subtitle": "Operations & event support",
+      "date": "Summer seasons",
+      "description": "High-tempo logistics, athlete/staff coordination."
+    },
+    {
+      "title": "Professional Associations",
+      "subtitle": "APA Student Member; NYSPA; Psi Chi",
+      "date": "Ongoing",
+      "description": "Active student membership across divisions; honor society recognition."
+    }
+  ]
+}
