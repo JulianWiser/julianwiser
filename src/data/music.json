@@ -1,7 +1,20 @@
-[
-  {
-    "project": "Yung Frown Catalog",
-    "highlights": ["Macintosh Plus series", "Independent releases 2017–2025"],
-    "links": []
-  }
-]
+{
+  "artist": "Yung Frown",
+  "summary": "Independent electronic/experimental catalog with 150+ releases, active 2017–2025. Focus on textural design, atmosphere, and motif callbacks across series.",
+  "highlights": [
+    {
+      "title": "Macintosh Plus 2k17",
+      "subtitle": "Flagship release; haunting/metallic vocal texture experiments",
+      "link": ""
+    },
+    {
+      "title": "Macintosh Plus 2k20",
+      "subtitle": "Multi-distributor release strategy after false DMCA saga; lessons compiled into a defense kit",
+      "link": ""
+    }
+  ],
+  "links": [
+    { "label": "ASCAP (Writer/Publisher)", "url": "https://www.ascap.com/" },
+    { "label": "Contact for licensing", "url": "mailto:jrw9707@nyu.edu" }
+  ]
+}
