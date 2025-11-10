@@ -1,7 +1,25 @@
 {
   "name": "Julian Reed Wiser",
-  "tagline": "Applied Psychology | Research | EMT | Digital Director | Artist",
-  "location": "New York, NY",
-  "email": "hello@julianwiser.com",
-  "summary": "Portfolio scaffold. Replace with real bio content."
+  "headline": "Researcher • Applied Psychology • EMT • Digital Director • Artist",
+  "location": "Manhattan, New York, USA",
+  "about": "BS Applied Psychology (NYU Steinhardt, 2025). EMT and PTCB-certified pharmacy technician. Research focus on neurodiverse children’s emotional and learning experiences in therapeutic settings (Nordoff-Robbins). Digital director/webmaster for NYU Psi Chi. Independent artist/producer under Yung Frown with a 150+ track catalog. Building clean systems that actually help people instead of just looking pretty.",
+  "skills": [
+    "Qualitative methods (grounded theory, NVivo)",
+    "Research design & analysis",
+    "Community/Clinical psych concepts",
+    "Web: Next.js, Tailwind, Netlify",
+    "Audio/ML basics (Librosa, Python)",
+    "Crisis response (EMT)"
+  ],
+  "credentials": [
+    "EMT, New York State",
+    "PTCB Certified Pharmacy Technician (valid to Feb 2027)",
+    "IBM Coursera: Applied Data Science, Data Analysis & Visualization, Python for Data Science, Machine Learning with Python, Generative AI for Software Developers, Full-Stack Software Development"
+  ],
+  "links": [
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/julianwiser/" },
+    { "label": "GitHub", "url": "https://github.com/JulianWiser" },
+    { "label": "Email", "url": "mailto:jrw9707@nyu.edu" },
+    { "label": "julianwiser.com", "url": "https://julianwiser.com" }
+  ]
 }
