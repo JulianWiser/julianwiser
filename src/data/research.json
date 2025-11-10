@@ -1,9 +1,26 @@
-[
-  {
-    "title": "Neurodiverse Children’s Emotional and Learning Experiences in Therapeutic Settings",
-    "type": "Independent Study",
-    "methods": ["Constructivist grounded theory", "NVivo coding"],
-    "status": "In progress",
-    "links": []
-  }
-]
+{
+  "title": "Research & Projects",
+  "items": [
+    {
+      "title": "Neurodiverse Children’s Emotional & Learning Experiences in Therapeutic Settings",
+      "subtitle": "Constructivist grounded theory • 5 participants • NVivo coding",
+      "date": "2025",
+      "description": "Child-centered qualitative study focusing on sensory-supportive environments, movement-based engagement, and relational attunement. Results highlight concrete practitioner implications across therapy and classroom contexts.",
+      "link": ""
+    },
+    {
+      "title": "Safe Scroll — Digital Wellness Policy Brief",
+      "subtitle": "Screen-time harms, algorithmic transparency, youth wellbeing",
+      "date": "2025",
+      "description": "Policy framework and intervention concept aimed at reducing excessive and harmful screen behavior among children/adolescents. Includes program theory, metrics, and site (safe-scroll.com).",
+      "link": "https://www.safe-scroll.com"
+    },
+    {
+      "title": "Music/AI Final Project",
+      "subtitle": "Python + Librosa + pre-trained models",
+      "date": "2025",
+      "description": "Audio analysis and creative tooling; 3.5-minute presentation plus paper documenting technical approach and reflections.",
+      "link": ""
+    }
+  ]
+}
